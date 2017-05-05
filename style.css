@@ -1,0 +1,18 @@
+div.bald-dude{
+    width: 100%;
+    height: 100vh;
+    background: url("/images/wot-masthead-dark.jpg");
+    background-size: cover;
+}
+div.message-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    width: 170px;
+    height: 55px;
+    background-color: #CAE23A;
+    border-radius: 4px;
+}
